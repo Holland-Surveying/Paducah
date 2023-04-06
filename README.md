@@ -1,2 +1,2 @@
 # Paducah
- "Your site is published at https://holland-surveying.github.io/Paducah/
+ "My site is published at https://holland-surveying.github.io/Paducah/
